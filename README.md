@@ -1,2 +1,0 @@
-# Python-Datetime-Drill
-Beginning python dev need help with drill. The drill is to create code that will use the current time of an Oregon HQ to find out the time in the NYC &amp; London branches, then compare that time with the branches hours to see if they are open or closed. . The hours of both branches are 9:00AM - 9:00PM in their own time zone. Any help from anyone would be greatly appreciated. 
